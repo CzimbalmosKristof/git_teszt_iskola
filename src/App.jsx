@@ -15,6 +15,7 @@ function App() {
       <p>main4</p>
       <p>uj_ag</p>
       <p>uj_ag2</p>
+      <p>main7</p>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
